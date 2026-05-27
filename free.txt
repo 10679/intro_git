@@ -1,7 +1,3 @@
 hello git
-sishamo
-HumpBack
-bokula
-nelke
-wanima
 featureブランチで編集
+githubで編集
