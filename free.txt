@@ -1,3 +1,4 @@
 hello git
 featureブランチで編集
 githubで編集
+masterの内容　
